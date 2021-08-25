@@ -1,2 +1,6 @@
 # DDoS-CAM4
-server-down
+
+
+Git clone https://github.com/riz4d/DDoS-CAM4
+
+python2 DDos.py
